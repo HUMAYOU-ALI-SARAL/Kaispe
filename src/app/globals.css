@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Urbanist:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body {
+  background: #ffffff;
+  font-family: 'Bricolage Grotesque', Arial, Helvetica, sans-serif;
+}
+
+
+/* edit scroll bar  */
+::-webkit-scrollbar {
+  width: 10px;
+  border-radius: 30px;
+
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 2px grey; 
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+} 
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 2px grey; 
+  border-radius: 3px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg,  #002258 30%, #014fba 90%); 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(45deg,  #002258 30%, #014fba 90%); 
+  border-radius: 10px;
+  cursor: pointer;
+} 
+
+.animate-marquee {
+  animation: marquee 15s linear infinite; /* Increase the duration to slow down */
+}
