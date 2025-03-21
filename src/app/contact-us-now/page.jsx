@@ -13,7 +13,7 @@ export default function ContactUsNow() {
             
             <div className="max-w-[1200px] mx-auto px-4 py-12">
                 <h1 className="text-5xl font-normal text-center mb-4">CONTACT US</h1>
-                <p className="text-center mb-12">Fill in the below email, or reach us on: info@kaispe.com , +1 315 791 4472</p>
+                <p className="text-center mb-12">Fill in the below email, or reach us on: info@App Genix Solutions.com , +1 315 791 4472</p>
                 
                 <form className="space-y-6">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

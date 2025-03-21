@@ -6,17 +6,17 @@ const offerings = [
     {
         icon: '/core-offering/3.png',
         title: 'Implementation',
-        description: `Successful organizations equip their people with the right technology to do more! As a leading expert in software technologies, KAISPE is helping out companies leverage the latest advancements to maximize their investments in technology.`
+        description: `Successful organizations equip their people with the right technology to do more! As a leading expert in software technologies, App Genix Solutions is helping out companies leverage the latest advancements to maximize their investments in technology.`
     },
     {
         icon: '/core-offering/4.png',
         title: 'Upgrade',
-        description: `The decision to upgrade your current application version can be a difficult choice. KAISPE can help you leverage the upgrade benefits. We can show you how upgrades deliver improved functionality and other important features that you shouldn’t ignore, at least not long term.`
+        description: `The decision to upgrade your current application version can be a difficult choice. App Genix Solutions can help you leverage the upgrade benefits. We can show you how upgrades deliver improved functionality and other important features that you shouldn’t ignore, at least not long term.`
     },
     {
         icon: '/core-offering/5.png',
         title: 'Custom Development',
-        description: `The decision to upgrade your current application version can be a difficult choice. KAISPE can help you leverage the upgrade benefits. We can show you how upgrades deliver improved functionality and other important features that you shouldn’t ignore, at least not long term.`
+        description: `The decision to upgrade your current application version can be a difficult choice. App Genix Solutions can help you leverage the upgrade benefits. We can show you how upgrades deliver improved functionality and other important features that you shouldn’t ignore, at least not long term.`
     },
     {
         icon: '/core-offering/3.png',
@@ -26,12 +26,12 @@ const offerings = [
     {
         icon: '/core-offering/4.png',
         title: 'Integration',
-        description: `With businesses moving toward digitization, KAISPE can help your business connect legacy, modern, and complex business applications more easily and quickly by providing integrations using standard and custom connectors.`
+        description: `With businesses moving toward digitization, App Genix Solutions can help your business connect legacy, modern, and complex business applications more easily and quickly by providing integrations using standard and custom connectors.`
     },
     {
         icon: '/core-offering/5.png',
         title: 'Support',
-        description: `Our KAISPE support team is ready to calculate the cost according to the software and its underlying infrastructure, the extent of support and maintenance required, and the preferred pricing model.`
+        description: `Our App Genix Solutions support team is ready to calculate the cost according to the software and its underlying infrastructure, the extent of support and maintenance required, and the preferred pricing model.`
     }
 ];
 

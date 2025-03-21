@@ -17,7 +17,7 @@ export default function BlockchainSection() {
           Rapidly Adapt & Automate to Achieve Business Resilience
           </h2>
           <p className="text-center md:text-left text-sm sm:text-base text-gray-700 leading-relaxed max-w-prose">
-          KAISPE is one of the leading technology solutions provider in the world. Our experience and expertise gives us an award-winning edge to carefully listen to our customers’ needs and act in the most appropriate manner, so that they can adopt technology with ease and efficiency.
+          App Genix Solutions is one of the leading technology solutions provider in the world. Our experience and expertise gives us an award-winning edge to carefully listen to our customers’ needs and act in the most appropriate manner, so that they can adopt technology with ease and efficiency.
           </p>
         </div>
 

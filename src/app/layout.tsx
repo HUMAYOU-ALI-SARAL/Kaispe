@@ -13,10 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Kaispe",
-  description: "Kaispe",
+  title: "App Genix Solutions",
+  description: "App Genix Solutions",
   icons: {
-    icon: '/logo.jpeg',
+    icon: '/logo-removebg-preview.png',
     sizes: '64x32',
   },
 };

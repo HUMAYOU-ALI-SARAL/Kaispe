@@ -24,7 +24,7 @@ const HelpSection: React.FC = () => {
               how can we help you?
             </h2>
             <p className='text-white text-[12px] sm:text-[13px] md:text-[14px] max-w-[280px] sm:max-w-[350px] md:max-w-[400px] mx-auto mt-3 sm:mt-4 text-center'>
-            Our KAISPE support team is ready to calculate the cost according to the software and its underlying infrastructure, the extent of support and maintenance required, and the preferred pricing model.
+            Our App Genix Solutions support team is ready to calculate the cost according to the software and its underlying infrastructure, the extent of support and maintenance required, and the preferred pricing model.
             </p>
             <button 
               onClick={() => router.push('/contact-us-now')}

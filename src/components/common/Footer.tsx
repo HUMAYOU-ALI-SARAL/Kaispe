@@ -12,7 +12,7 @@ export default function Footer() {
         <div className="flex flex-col py-4 sm:py-6">
           <Image
             src="/logo.jpeg"
-            alt="Kaispe Logo"
+            alt="App Genix Solutions Logo"
             width={120}
             height={50}
             className="object-contain"
@@ -23,7 +23,7 @@ export default function Footer() {
         <div className="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 sm:gap-12">
           {/* Description */}
           <p className="text-sm sm:text-base lg:w-[90%]">
-          KAISPE is offering apps and services using Microsoft Power Platform, Dynamics, Azure, AI, Oracle NetSuite and Open-Source platform
+          App Genix Solutions is offering apps and services using Microsoft Power Platform, Dynamics, Azure, AI, Oracle NetSuite and Open-Source platform
           </p>
 
           {/* Contact Information */}
@@ -31,8 +31,8 @@ export default function Footer() {
             <div className="space-y-2">
               <p className="text-sm sm:text-base">+1 315 791 4472</p>
               {/* <p className="text-sm sm:text-base">+971 6 7474978</p> */}
-              <a href="mailto:info@kaispe.com" className="text-sm sm:text-base hover:text-[#4FF4F4] transition-colors">
-                info@kaispe.com
+              <a href="mailto:info@App Genix Solutions.com" className="text-sm sm:text-base hover:text-[#4FF4F4] transition-colors">
+                info@App Genix Solutions.com
               </a>
             </div>
             <div className="space-y-1 text-sm sm:text-base">
